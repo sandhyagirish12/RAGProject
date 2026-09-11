@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+openai>=1.0.0
+langchain
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+pydantic
+requests
+pandas
+python-dotenv
